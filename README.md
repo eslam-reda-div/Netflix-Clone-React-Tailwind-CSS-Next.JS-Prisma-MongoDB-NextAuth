@@ -1,1 +1,3 @@
-# Netflix-Clone-React-Tailwind-CSS-Next.JS-Prisma-MongoDB-NextAuth
+## Small netflix clone using Next.js, Prisma, Mongodb, Tailwind CSS, NextAuth
+
+![Image](./screencapture.png)
